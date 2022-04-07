@@ -88,6 +88,6 @@ public class StripeController {
 	}
 
 	private static void init() {
-		Stripe.apiKey = "";
+		Stripe.apiKey = " ";
 	}
 }
